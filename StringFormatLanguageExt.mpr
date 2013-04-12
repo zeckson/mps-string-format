@@ -7,6 +7,7 @@
   <component name="MPSProject">
     <projectModules>
       <modulePath path="${project}/languages/jetbrains.mps.baseLanguage.string.format/format.mpl" />
+      <modulePath path="${project}/solutions/StringFormatLanguageExt.build/StringFormatLanguageExt.build.msd" />
       <modulePath path="${project}/solutions/jetbrains.mps.baseLanguage.string.format.sandbox/jetbrains.mps.baseLanguage.string.format.sandbox.msd" />
     </projectModules>
     <genConfs />
