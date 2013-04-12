@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="aiecusfwojixij2oiu7u7j970p9bccs">
+<dependencies version="2" modelHash="bjn2t53p3natv0hwlq96fns93bea0vq">
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -23,7 +23,7 @@
     <file name="Format_Language.java" />
     <file name="StructureAspectDescriptor.java" />
   </common>
-  <source id="5898401181601464704" name="FormattedString" hash="-6jdicla6udd3hwez56i5vuwbxykzejg">
+  <source id="5898401181601464704" name="FormattedString" hash="-8r75zzqxp71dc7aefrfw6crvuslw2yt">
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
   </source>
   <source id="5898401181601464710" name="PlainStringComponent" hash="702zn120v4e52534ouiyqyck8lmuh1l">

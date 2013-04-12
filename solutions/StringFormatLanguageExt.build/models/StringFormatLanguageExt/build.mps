@@ -46,7 +46,7 @@
       </node>
       <node role="version" roleId="kdzh.6592112598314498931" type="3ior.BuildStringNotEmpty" typeId="3ior.841011766566059607" id="6466352414160806173">
         <node role="parts" roleId="3ior.4903714810883783243" type="3ior.BuildTextStringPart" typeId="3ior.4903714810883702019" id="6466352414160806174">
-          <property name="text" nameId="3ior.4903714810883755350" value="1.0" />
+          <property name="text" nameId="3ior.4903714810883755350" value="0.0.1" />
         </node>
       </node>
       <node role="content" roleId="kdzh.6592112598314499050" type="kdzh.BuildMps_IdeaPluginGroup" typeId="kdzh.6592112598314586625" id="6466352414160806175">
@@ -59,6 +59,10 @@
         <node role="parts" roleId="3ior.4903714810883783243" type="3ior.BuildTextStringPart" typeId="3ior.4903714810883702019" id="6466352414160806178">
           <property name="text" nameId="3ior.4903714810883755350" value="StringFormatLanguageExt" />
         </node>
+      </node>
+      <node role="vendor" roleId="kdzh.7832771629084912518" type="kdzh.BuildMps_IdeaPluginVendor" typeId="kdzh.7832771629084799699" id="713107899955953129">
+        <property name="name" nameId="kdzh.7832771629084799702" value="zeckson" />
+        <property name="url" nameId="kdzh.7832771629084799701" value="https://github.com/zeckson/mps-string-format" />
       </node>
     </node>
     <node role="parts" roleId="3ior.7389400916848080626" type="kdzh.BuildMps_Group" typeId="kdzh.1500819558095907805" id="6466352414160806179">

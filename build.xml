@@ -29,7 +29,8 @@
       <idea-plugin version="2" xmlns:xi="http://www.w3.org/2001/XInclude">
         <id>StringFormatLanguageExt</id>
         <name>StringFormatLanguageExt</name>
-        <version>1.0</version>
+        <version>0.0.1</version>
+        <vendor url="https://github.com/zeckson/mps-string-format">zeckson</vendor>
         <depends>jetbrains.mps.core</depends>
         
         <extensions defaultExtensionNs="com.intellij">
