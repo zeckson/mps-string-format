@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="97mtltp0xwf1zsqvxy1a006cx2mi80u">
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
+  <dep model="r:63b5bb6c-a5f3-421b-807c-8852314ea20c(jetbrains.mps.baseLanguage.string.format.generator.template.main@generator)" hash="-dcasp4y2jub5lnzo8dzcmjvho53e52q" />
+  <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+  <common hash="5rrns6zwuwin6x98bww1pkp1q2ptdno">
+    <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" />
+  </common>
+  <source id="5898401181601532960" name="Test" hash="c66mu99dqdf80haj9aww6wrfmwsyu1x">
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902cb(jetbrains.mps.baseLanguage.generator.java.closures@generator)" />
+    <dep model="r:63b5bb6c-a5f3-421b-807c-8852314ea20c(jetbrains.mps.baseLanguage.string.format.generator.template.main@generator)" />
+    <file name="Test.java" />
+  </source>
+</dependencies>
+

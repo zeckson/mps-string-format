@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="QueriesGenerated.java" startLine="26" startPosition="51" endLine="40" endPosition="7" unitName="jetbrains.mps.baseLanguage.string.format.actions.QueriesGenerated$1" />
+  <unitInfo fileName="QueriesGenerated.java" startLine="17" startPosition="0" endLine="45" endPosition="0" unitName="jetbrains.mps.baseLanguage.string.format.actions.QueriesGenerated" />
+  <root nodeId="5898401181601552288" modelId="r:7028b8cd-dee2-40c0-81a8-e3d06ffd9aee(jetbrains.mps.baseLanguage.string.format.actions)">
+    <nodeInfo nodeId="5898401181601552405" fileName="QueriesGenerated.java" startLine="18" startPosition="217" endLine="19" endPosition="163" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5898401181601552610" fileName="QueriesGenerated.java" startLine="27" startPosition="51" endLine="28" endPosition="144" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5898401181601552646" fileName="QueriesGenerated.java" startLine="28" startPosition="144" endLine="29" endPosition="83" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="5898401181601552678" fileName="QueriesGenerated.java" startLine="29" startPosition="83" endLine="30" endPosition="24" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5898401181601575751" fileName="QueriesGenerated.java" startLine="33" startPosition="55" endLine="34" endPosition="25" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <scopeInfo nodeId="5898401181601552403" fileName="QueriesGenerated.java" startLine="18" startPosition="217" endLine="19" endPosition="163" />
+    <scopeInfo nodeId="5898401181601575750" fileName="QueriesGenerated.java" startLine="33" startPosition="55" endLine="34" endPosition="25" />
+    <scopeInfo nodeId="5898401181601552309" fileName="QueriesGenerated.java" startLine="27" startPosition="51" endLine="30" endPosition="24">
+      <varInfo nodeId="5898401181601552611" varName="result" />
+    </scopeInfo>
+  </root>
+</debugInfo>
+
