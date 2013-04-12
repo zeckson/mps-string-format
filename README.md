@@ -16,6 +16,10 @@ Open project or import language to your own language.
 
 Add flags and other format modifiers to language.
 
+## Artifacts
+
+Binary artifacts can be found here https://bintray.com/pkg/show/general/zeckson/mps-string-format/mps-string-format
+
 ## License
 
 Copyright 2013 Evgenii Shchepotev. MIT License (see LICENSE for details).
